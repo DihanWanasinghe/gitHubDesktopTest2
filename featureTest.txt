@@ -1,3 +1,5 @@
 This is the first branch
-this is testing merge confilicts , 1st 
-Testing suggestion sections in reviewing pull requests
+
+Testing Merge Conflicts, this is the 2nd push
+this is testing merge confilicts , 1st push
+
